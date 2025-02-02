@@ -91,8 +91,3 @@ Algorithmic trading uses computer algorithms to automate trading decisions. This
 - PyPortfolioOpt
 - arch
 - pandas_ta
-
-
-## License
-
-This project is licensed under the MIT License.
